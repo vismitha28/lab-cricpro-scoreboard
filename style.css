@@ -14,3 +14,25 @@
     font-style: normal;
     
 }
+body{
+	background-image:url("assets/background-image1.png");
+	background-repeat: no-repeat;
+	background-size: 1400px 750px;
+	
+	
+}
+
+table ,th ,td{
+	border-bottom: 1px solid grey;
+	border-collapse: collapse;
+	padding: 10px;
+	background-color: white;
+
+
+}
+th{
+	background:red;
+}
+table{
+	width:75%;
+}
